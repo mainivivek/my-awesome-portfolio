@@ -39,13 +39,6 @@ const Contact = () => {
 
           <div className="flex flex-wrap items-center justify-center gap-6">
             <a
-              href="tel:+917032731934"
-              className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-colors"
-            >
-              <Phone className="w-5 h-5" />
-              +91 7032731934
-            </a>
-            <a
               href="https://www.linkedin.com/in/vivekananda-maiyani-303548204"
               target="_blank"
               rel="noopener noreferrer"
