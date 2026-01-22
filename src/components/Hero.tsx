@@ -84,7 +84,7 @@ const Hero = () => {
 
             <Button variant="ghost" size="icon" className="w-12 h-12" asChild>
               <a
-                href="https://linkedin.com/in/vivekananda-maiyani"
+                href="https://www.linkedin.com/in/vivekananda-maiyani-303548204"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="LinkedIn Profile"
