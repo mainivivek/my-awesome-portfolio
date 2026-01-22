@@ -46,7 +46,7 @@ const Contact = () => {
               +91 7032731934
             </a>
             <a
-              href="https://linkedin.com/in/vivekananda-maiyani"
+              href="https://www.linkedin.com/in/vivekananda-maiyani-303548204"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-colors"
