@@ -74,14 +74,6 @@ const Hero = () => {
                 Get in Touch
               </a>
             </Button>
-            
-            <Button variant="outline" size="lg" asChild>
-              <a href="tel:+917032731934">
-                <Phone className="w-4 h-4 mr-2" />
-                +91 7032731934
-              </a>
-            </Button>
-
             <Button variant="ghost" size="icon" className="w-12 h-12" asChild>
               <a
                 href="https://www.linkedin.com/in/vivekananda-maiyani-303548204"
