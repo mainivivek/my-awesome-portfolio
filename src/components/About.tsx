@@ -46,9 +46,9 @@ const About = () => {
             <span className="text-gradient">exceptional</span> web experiences
           </h2>
           <p className="text-lg text-muted-foreground leading-relaxed">
-            Dedicated React developer with 3.6 years of experience crafting dynamic, 
-            responsive, and scalable web applications using HTML, CSS, JavaScript, React, 
-            and Redux Toolkit. Specialized in building modular reusable components, 
+            Dedicated React developer with 3.7 years of experience crafting dynamic, 
+            responsive, and scalable web applications using HTML, CSS, JavaScript, TypeScrript,React, 
+            Node JS, Redux Toolkit and MongoDB. Specialized in building modular reusable components, 
             seamless REST API integration, UI performance optimization, and delivering 
             accessible, cross-device interfaces.
           </p>
