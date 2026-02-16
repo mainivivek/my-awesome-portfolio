@@ -36,7 +36,7 @@ const Experience = () => {
               <div>
                 <h3 className="text-2xl font-bold">Software Engineer</h3>
                 <p className="text-primary font-mono">DigitalSprint.AI Solutions</p>
-                <p className="text-sm text-muted-foreground mt-1">3.6 years of experience</p>
+                <p className="text-sm text-muted-foreground mt-1">3.7+ years of experience</p>
               </div>
             </div>
 
