@@ -46,11 +46,13 @@ const About = () => {
             <span className="text-gradient">exceptional</span> web experiences
           </h2>
           <p className="text-lg text-muted-foreground leading-relaxed">
-            Dedicated React developer with 3.7 years of experience crafting dynamic, 
-            responsive, and scalable web applications using HTML, CSS, JavaScript, TypeScrript,React, 
-            Node JS, Redux Toolkit and MongoDB. Specialized in building modular reusable components, 
+            Dedicated React developer with 3.9+ years of experience crafting dynamic, 
+            responsive, and scalable web applications using HTML, CSS, JavaScript, TypeScript, React, 
+            Redux Toolkit and MongoDB. Specialized in building reusable components, 
             seamless REST API integration, UI performance optimization, and delivering 
-            accessible, cross-device interfaces.
+            accessible, cross-device interfaces. Passionate about creating clean, user-friendly, 
+            data-driven solutions in Agile environments while continuously improving code quality, 
+            maintainability, and business impact through strong problem-solving and collaboration.
           </p>
         </motion.div>
 
