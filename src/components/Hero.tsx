@@ -57,7 +57,7 @@ const Hero = () => {
             transition={{ delay: 0.5, duration: 0.6 }}
             className="text-lg text-muted-foreground max-w-2xl mx-auto mb-12 leading-relaxed"
           >
-            3.6+ years crafting dynamic, responsive, and scalable web applications. 
+            3.9+ years crafting dynamic, responsive, and scalable web applications. 
             Specialized in building modular components and seamless API integrations.
           </motion.p>
 

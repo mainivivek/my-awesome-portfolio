@@ -103,7 +103,8 @@ const Experience = () => {
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
               {[
-                "React Native: Mobile App Development (CLI) – Udemy",
+                "The Ultimate React Course 2025: React, Next.js, Redux & More – Udemy",
+                "React Native: Mobile App Development (CLI) [2025] – Udemy",
                 "Coding Interview Preparation – Meta",
                 "HTML and CSS in Depth – Meta",
                 "React Basics – Meta",

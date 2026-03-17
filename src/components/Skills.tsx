@@ -2,12 +2,16 @@ import { motion } from "framer-motion";
 
 const skillCategories = [
   {
-    title: "Languages & Frameworks",
-    skills: ["JavaScript", "React", "Node JS", "MongoDB", "TypeScript", "Redux Toolkit", "HTML", "CSS"],
+    title: "Programming Languages",
+    skills: ["HTML", "CSS", "JavaScript", "TypeScript", "React.js"],
   },
   {
-    title: "UI Libraries",
-    skills: ["Shadcn UI", "Tailwind CSS", "Ant Design", "Material-UI"],
+    title: "Libraries",
+    skills: ["Redux Toolkit", "Tailwind CSS", "Shadcn", "Ant Design", "MUI"],
+  },
+  {
+    title: "Database",
+    skills: ["MongoDB"],
   },
   {
     title: "Tools & Platforms",
